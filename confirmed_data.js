@@ -1,2033 +1,2033 @@
-const LAST_UPDATE = "2020.01.29-11:49:22";
+const LAST_UPDATE = "2020.02.01-23:32:24";
 const DATA = {
   "110000": {
-    "confirmedCount": 91,
-    "cityName": "åŒ—äº¬å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 168,
+    "cityName": "±±¾©ÊĞ",
+    "color": "#ef5350"
   },
   "120000": {
-    "confirmedCount": 25,
-    "cityName": "å¤©æ´¥å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 41,
+    "cityName": "Ìì½òÊĞ",
+    "color": "#ef9a9a"
   },
   "130100": {
-    "confirmedCount": 10,
-    "cityName": "çŸ³å®¶åº„å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 12,
+    "cityName": "Ê¯¼Ò×¯ÊĞ",
+    "color": "#ef9a9a"
   },
   "130200": {
-    "confirmedCount": 3,
-    "cityName": "å”å±±å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "ÌÆÉ½ÊĞ",
+    "color": "#ffcdd2"
   },
   "130300": {
-    "confirmedCount": 0,
-    "cityName": "ç§¦çš‡å²›å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "ÇØ»ÊµºÊĞ",
+    "color": "#ffcdd2"
   },
   "130400": {
-    "confirmedCount": 4,
-    "cityName": "é‚¯éƒ¸å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 10,
+    "cityName": "ºªµ¦ÊĞ",
+    "color": "#ef9a9a"
   },
   "130500": {
-    "confirmedCount": 3,
-    "cityName": "é‚¢å°å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 10,
+    "cityName": "ĞÏÌ¨ÊĞ",
+    "color": "#ef9a9a"
   },
   "130600": {
-    "confirmedCount": 6,
-    "cityName": "ä¿å®šå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 11,
+    "cityName": "±£¶¨ÊĞ",
+    "color": "#ef9a9a"
   },
   "130700": {
-    "confirmedCount": 1,
-    "cityName": "å¼ å®¶å£å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "ÕÅ¼Ò¿ÚÊĞ",
+    "color": "#ffcdd2"
   },
   "130800": {
-    "confirmedCount": 1,
-    "cityName": "æ‰¿å¾·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 2,
+    "cityName": "³ĞµÂÊĞ",
+    "color": "#ffcdd2"
   },
   "130900": {
-    "confirmedCount": 8,
-    "cityName": "æ²§å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 19,
+    "cityName": "²×ÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "131000": {
-    "confirmedCount": 9,
-    "cityName": "å»ŠåŠå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 11,
+    "cityName": "ÀÈ·»ÊĞ",
+    "color": "#ef9a9a"
   },
   "131100": {
-    "confirmedCount": 3,
-    "cityName": "è¡¡æ°´å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 4,
+    "cityName": "ºâË®ÊĞ",
+    "color": "#ffcdd2"
   },
   "140100": {
-    "confirmedCount": 3,
-    "cityName": "å¤ªåŸå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 4,
+    "cityName": "Ì«Ô­ÊĞ",
+    "color": "#ffcdd2"
   },
   "140200": {
-    "confirmedCount": 3,
-    "cityName": "å¤§åŒå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "´óÍ¬ÊĞ",
+    "color": "#ffcdd2"
   },
   "140300": {
     "confirmedCount": 1,
-    "cityName": "é˜³æ³‰å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ÑôÈªÊĞ",
+    "color": "#ffcdd2"
   },
   "140400": {
-    "confirmedCount": 1,
-    "cityName": "é•¿æ²»å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 3,
+    "cityName": "³¤ÖÎÊĞ",
+    "color": "#ffcdd2"
   },
   "140500": {
-    "confirmedCount": 0,
-    "cityName": "æ™‹åŸå¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 2,
+    "cityName": "½ú³ÇÊĞ",
+    "color": "#ffcdd2"
   },
   "140600": {
-    "confirmedCount": 2,
-    "cityName": "æœ”å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 3,
+    "cityName": "Ë·ÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "140700": {
-    "confirmedCount": 9,
-    "cityName": "æ™‹ä¸­å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 11,
+    "cityName": "½úÖĞÊĞ",
+    "color": "#ef9a9a"
   },
   "140800": {
-    "confirmedCount": 4,
-    "cityName": "è¿åŸå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 10,
+    "cityName": "ÔË³ÇÊĞ",
+    "color": "#ef9a9a"
   },
   "140900": {
-    "confirmedCount": 0,
-    "cityName": "å¿»å·å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "ĞÃÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "141000": {
     "confirmedCount": 1,
-    "cityName": "ä¸´æ±¾å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ÁÙ·ÚÊĞ",
+    "color": "#ffcdd2"
   },
   "141100": {
-    "confirmedCount": 3,
-    "cityName": "å•æ¢å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "ÂÀÁºÊĞ",
+    "color": "#ffcdd2"
   },
   "150100": {
     "confirmedCount": 2,
-    "cityName": "å‘¼å’Œæµ©ç‰¹å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ºôºÍºÆÌØÊĞ",
+    "color": "#ffcdd2"
   },
   "150200": {
     "confirmedCount": 3,
-    "cityName": "åŒ…å¤´å¸‚",
-    "color": "#F08E7E"
+    "cityName": "°üÍ·ÊĞ",
+    "color": "#ffcdd2"
   },
   "150300": {
     "confirmedCount": 0,
-    "cityName": "ä¹Œæµ·å¸‚",
+    "cityName": "ÎÚº£ÊĞ",
     "color": "#FFFFFF"
   },
   "150400": {
     "confirmedCount": 2,
-    "cityName": "èµ¤å³°å¸‚",
-    "color": "#F08E7E"
+    "cityName": "³à·åÊĞ",
+    "color": "#ffcdd2"
   },
   "150500": {
     "confirmedCount": 1,
-    "cityName": "é€šè¾½å¸‚",
-    "color": "#F08E7E"
+    "cityName": "Í¨ÁÉÊĞ",
+    "color": "#ffcdd2"
   },
   "150600": {
-    "confirmedCount": 2,
-    "cityName": "é„‚å°”å¤šæ–¯å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "¶õ¶û¶àË¹ÊĞ",
+    "color": "#ffcdd2"
   },
   "150700": {
     "confirmedCount": 2,
-    "cityName": "å‘¼ä¼¦è´å°”å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ºôÂ×±´¶ûÊĞ",
+    "color": "#ffcdd2"
   },
   "150800": {
-    "confirmedCount": 1,
-    "cityName": "å·´å½¦æ·–å°”å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 3,
+    "cityName": "°ÍÑåÄ×¶ûÊĞ",
+    "color": "#ffcdd2"
   },
   "150900": {
-    "confirmedCount": 0,
-    "cityName": "ä¹Œå…°å¯Ÿå¸ƒå¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 2,
+    "cityName": "ÎÚÀ¼²ì²¼ÊĞ",
+    "color": "#ffcdd2"
   },
   "152200": {
     "confirmedCount": 1,
-    "cityName": "å…´å®‰ç›Ÿ",
-    "color": "#F08E7E"
+    "cityName": "ĞË°²ÃË",
+    "color": "#ffcdd2"
   },
   "152500": {
     "confirmedCount": 2,
-    "cityName": "é”¡æ—éƒ­å‹’ç›Ÿ",
-    "color": "#F08E7E"
+    "cityName": "ÎıÁÖ¹ùÀÕÃË",
+    "color": "#ffcdd2"
   },
   "152900": {
     "confirmedCount": 0,
-    "cityName": "é˜¿æ‹‰å–„ç›Ÿ",
+    "cityName": "°¢À­ÉÆÃË",
     "color": "#FFFFFF"
   },
   "210100": {
-    "confirmedCount": 8,
-    "cityName": "æ²ˆé˜³å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 13,
+    "cityName": "ÉòÑôÊĞ",
+    "color": "#ef9a9a"
   },
   "210200": {
-    "confirmedCount": 5,
-    "cityName": "å¤§è¿å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 10,
+    "cityName": "´óÁ¬ÊĞ",
+    "color": "#ef9a9a"
   },
   "210300": {
-    "confirmedCount": 0,
-    "cityName": "éå±±å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "°°É½ÊĞ",
+    "color": "#ffcdd2"
   },
   "210400": {
     "confirmedCount": 0,
-    "cityName": "æŠšé¡ºå¸‚",
+    "cityName": "¸§Ë³ÊĞ",
     "color": "#FFFFFF"
   },
   "210500": {
-    "confirmedCount": 2,
-    "cityName": "æœ¬æºªå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 3,
+    "cityName": "±¾ÏªÊĞ",
+    "color": "#ffcdd2"
   },
   "210600": {
-    "confirmedCount": 5,
-    "cityName": "ä¸¹ä¸œå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "µ¤¶«ÊĞ",
+    "color": "#ffcdd2"
   },
   "210700": {
-    "confirmedCount": 4,
-    "cityName": "é”¦å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 7,
+    "cityName": "½õÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "210800": {
     "confirmedCount": 1,
-    "cityName": "è¥å£å¸‚",
-    "color": "#F08E7E"
+    "cityName": "Óª¿ÚÊĞ",
+    "color": "#ffcdd2"
   },
   "210900": {
-    "confirmedCount": 0,
-    "cityName": "é˜œæ–°å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 2,
+    "cityName": "¸·ĞÂÊĞ",
+    "color": "#ffcdd2"
   },
   "211000": {
     "confirmedCount": 1,
-    "cityName": "è¾½é˜³å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ÁÉÑôÊĞ",
+    "color": "#ffcdd2"
   },
   "211100": {
-    "confirmedCount": 2,
-    "cityName": "ç›˜é”¦å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 7,
+    "cityName": "ÅÌ½õÊĞ",
+    "color": "#ffcdd2"
   },
   "211200": {
     "confirmedCount": 2,
-    "cityName": "é“å²­å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ÌúÁëÊĞ",
+    "color": "#ffcdd2"
   },
   "211300": {
-    "confirmedCount": 3,
-    "cityName": "æœé˜³å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "³¯ÑôÊĞ",
+    "color": "#ffcdd2"
   },
   "211400": {
-    "confirmedCount": 3,
-    "cityName": "è‘«èŠ¦å²›å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "ºùÂ«µºÊĞ",
+    "color": "#ffcdd2"
   },
   "220100": {
-    "confirmedCount": 1,
-    "cityName": "é•¿æ˜¥å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 7,
+    "cityName": "³¤´ºÊĞ",
+    "color": "#ffcdd2"
   },
   "220200": {
     "confirmedCount": 3,
-    "cityName": "å‰æ—å¸‚",
-    "color": "#F08E7E"
+    "cityName": "¼ªÁÖÊĞ",
+    "color": "#ffcdd2"
   },
   "220300": {
     "confirmedCount": 2,
-    "cityName": "å››å¹³å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ËÄÆ½ÊĞ",
+    "color": "#ffcdd2"
   },
   "220400": {
     "confirmedCount": 0,
-    "cityName": "è¾½æºå¸‚",
+    "cityName": "ÁÉÔ´ÊĞ",
     "color": "#FFFFFF"
   },
   "220500": {
     "confirmedCount": 1,
-    "cityName": "é€šåŒ–å¸‚",
-    "color": "#F08E7E"
+    "cityName": "Í¨»¯ÊĞ",
+    "color": "#ffcdd2"
   },
   "220600": {
     "confirmedCount": 0,
-    "cityName": "ç™½å±±å¸‚",
+    "cityName": "°×É½ÊĞ",
     "color": "#FFFFFF"
   },
   "220700": {
     "confirmedCount": 2,
-    "cityName": "æ¾åŸå¸‚",
-    "color": "#F08E7E"
+    "cityName": "ËÉÔ­ÊĞ",
+    "color": "#ffcdd2"
   },
   "220800": {
     "confirmedCount": 0,
-    "cityName": "ç™½åŸå¸‚",
+    "cityName": "°×³ÇÊĞ",
     "color": "#FFFFFF"
   },
   "222400": {
-    "confirmedCount": 0,
-    "cityName": "å»¶è¾¹æœé²œæ—è‡ªæ²»å·",
-    "color": "#FFFFFF"
+    "confirmedCount": 2,
+    "cityName": "ÑÓ±ß³¯ÏÊ×å×ÔÖÎÖİ",
+    "color": "#ffcdd2"
   },
   "230100": {
-    "confirmedCount": 11,
-    "cityName": "å“ˆå°”æ»¨å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 25,
+    "cityName": "¹ş¶û±õÊĞ",
+    "color": "#ef9a9a"
   },
   "230200": {
     "confirmedCount": 3,
-    "cityName": "é½é½å“ˆå°”å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ÆëÆë¹ş¶ûÊĞ",
+    "color": "#ffcdd2"
   },
   "230300": {
-    "confirmedCount": 1,
-    "cityName": "é¸¡è¥¿å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 4,
+    "cityName": "¼¦Î÷ÊĞ",
+    "color": "#ffcdd2"
   },
   "230400": {
-    "confirmedCount": 0,
-    "cityName": "é¹¤å²—å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "º×¸ÚÊĞ",
+    "color": "#ffcdd2"
   },
   "230500": {
-    "confirmedCount": 1,
-    "cityName": "åŒé¸­å±±å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 2,
+    "cityName": "Ë«Ñ¼É½ÊĞ",
+    "color": "#ffcdd2"
   },
   "230600": {
-    "confirmedCount": 5,
-    "cityName": "å¤§åº†å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "´óÇìÊĞ",
+    "color": "#ffcdd2"
   },
   "230700": {
     "confirmedCount": 0,
-    "cityName": "ä¼Šæ˜¥å¸‚",
+    "cityName": "ÒÁ´ºÊĞ",
     "color": "#FFFFFF"
   },
   "230800": {
-    "confirmedCount": 5,
-    "cityName": "ä½³æœ¨æ–¯å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 11,
+    "cityName": "¼ÑÄ¾Ë¹ÊĞ",
+    "color": "#ef9a9a"
   },
   "230900": {
-    "confirmedCount": 2,
-    "cityName": "ä¸ƒå°æ²³å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "ÆßÌ¨ºÓÊĞ",
+    "color": "#ffcdd2"
   },
   "231000": {
-    "confirmedCount": 1,
-    "cityName": "ç‰¡ä¸¹æ±Ÿå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "Äµµ¤½­ÊĞ",
+    "color": "#ffcdd2"
   },
   "231100": {
     "confirmedCount": 0,
-    "cityName": "é»‘æ²³å¸‚",
+    "cityName": "ºÚºÓÊĞ",
     "color": "#FFFFFF"
   },
   "231200": {
-    "confirmedCount": 8,
-    "cityName": "ç»¥åŒ–å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 13,
+    "cityName": "Ëç»¯ÊĞ",
+    "color": "#ef9a9a"
   },
   "232700": {
-    "confirmedCount": 0,
-    "cityName": "å¤§å…´å®‰å²­åœ°åŒº",
-    "color": "#FFFFFF"
+    "confirmedCount": 2,
+    "cityName": "´óĞË°²ÁëµØÇø",
+    "color": "#ffcdd2"
   },
   "310000": {
-    "confirmedCount": 80,
-    "cityName": "ä¸Šæµ·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 169,
+    "cityName": "ÉÏº£ÊĞ",
+    "color": "#ef5350"
   },
   "320100": {
-    "confirmedCount": 14,
-    "cityName": "å—äº¬å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 28,
+    "cityName": "ÄÏ¾©ÊĞ",
+    "color": "#ef9a9a"
   },
   "320200": {
-    "confirmedCount": 9,
-    "cityName": "æ— é”¡å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 13,
+    "cityName": "ÎŞÎıÊĞ",
+    "color": "#ef9a9a"
   },
   "320300": {
-    "confirmedCount": 8,
-    "cityName": "å¾å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 23,
+    "cityName": "ĞìÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "320400": {
-    "confirmedCount": 8,
-    "cityName": "å¸¸å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 14,
+    "cityName": "³£ÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "320500": {
-    "confirmedCount": 20,
-    "cityName": "è‹å·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 34,
+    "cityName": "ËÕÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "320600": {
-    "confirmedCount": 6,
-    "cityName": "å—é€šå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 12,
+    "cityName": "ÄÏÍ¨ÊĞ",
+    "color": "#ef9a9a"
   },
   "320700": {
-    "confirmedCount": 3,
-    "cityName": "è¿äº‘æ¸¯å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 13,
+    "cityName": "Á¬ÔÆ¸ÛÊĞ",
+    "color": "#ef9a9a"
   },
   "320800": {
-    "confirmedCount": 3,
-    "cityName": "æ·®å®‰å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 12,
+    "cityName": "»´°²ÊĞ",
+    "color": "#ef9a9a"
   },
   "320900": {
-    "confirmedCount": 6,
-    "cityName": "ç›åŸå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 13,
+    "cityName": "ÑÎ³ÇÊĞ",
+    "color": "#ef9a9a"
   },
   "321000": {
-    "confirmedCount": 8,
-    "cityName": "æ‰¬å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 13,
+    "cityName": "ÑïÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "321100": {
     "confirmedCount": 2,
-    "cityName": "é•‡æ±Ÿå¸‚",
-    "color": "#F08E7E"
+    "cityName": "Õò½­ÊĞ",
+    "color": "#ffcdd2"
   },
   "321200": {
-    "confirmedCount": 8,
-    "cityName": "æ³°å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 17,
+    "cityName": "Ì©ÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "321300": {
-    "confirmedCount": 4,
-    "cityName": "å®¿è¿å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "ËŞÇ¨ÊĞ",
+    "color": "#ffcdd2"
   },
   "330100": {
-    "confirmedCount": 51,
-    "cityName": "æ­å·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 98,
+    "cityName": "º¼ÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "330200": {
-    "confirmedCount": 20,
-    "cityName": "å®æ³¢å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 55,
+    "cityName": "Äş²¨ÊĞ",
+    "color": "#ef9a9a"
   },
   "330300": {
-    "confirmedCount": 114,
-    "cityName": "æ¸©å·å¸‚",
-    "color": "#73181B"
+    "confirmedCount": 241,
+    "cityName": "ÎÂÖİÊĞ",
+    "color": "#ef5350"
   },
   "330400": {
-    "confirmedCount": 14,
-    "cityName": "å˜‰å…´å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 18,
+    "cityName": "¼ÎĞËÊĞ",
+    "color": "#ef9a9a"
   },
   "330500": {
-    "confirmedCount": 5,
-    "cityName": "æ¹–å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "ºşÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "330600": {
-    "confirmedCount": 19,
-    "cityName": "ç»å…´å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 24,
+    "cityName": "ÉÜĞËÊĞ",
+    "color": "#ef9a9a"
   },
   "330700": {
-    "confirmedCount": 13,
-    "cityName": "é‡‘åå¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 34,
+    "cityName": "½ğ»ªÊĞ",
+    "color": "#ef9a9a"
   },
   "330800": {
-    "confirmedCount": 8,
-    "cityName": "è¡¢å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 13,
+    "cityName": "áéÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "330900": {
-    "confirmedCount": 6,
-    "cityName": "èˆŸå±±å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 7,
+    "cityName": "ÖÛÉ½ÊĞ",
+    "color": "#ffcdd2"
   },
   "331000": {
-    "confirmedCount": 40,
-    "cityName": "å°å·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 95,
+    "cityName": "Ì¨ÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "331100": {
-    "confirmedCount": 6,
-    "cityName": "ä¸½æ°´å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "ÀöË®ÊĞ",
+    "color": "#ffcdd2"
   },
   "340100": {
-    "confirmedCount": 29,
-    "cityName": "åˆè‚¥å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 59,
+    "cityName": "ºÏ·ÊÊĞ",
+    "color": "#ef9a9a"
   },
   "340200": {
-    "confirmedCount": 11,
-    "cityName": "èŠœæ¹–å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 15,
+    "cityName": "ÎßºşÊĞ",
+    "color": "#ef9a9a"
   },
   "340300": {
-    "confirmedCount": 3,
-    "cityName": "èšŒåŸ å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 16,
+    "cityName": "°ö²ºÊĞ",
+    "color": "#ef9a9a"
   },
   "340400": {
-    "confirmedCount": 2,
-    "cityName": "æ·®å—å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "»´ÄÏÊĞ",
+    "color": "#ffcdd2"
   },
   "340500": {
-    "confirmedCount": 11,
-    "cityName": "é©¬éå±±å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 22,
+    "cityName": "Âí°°É½ÊĞ",
+    "color": "#ef9a9a"
   },
   "340600": {
-    "confirmedCount": 2,
-    "cityName": "æ·®åŒ—å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "»´±±ÊĞ",
+    "color": "#ffcdd2"
   },
   "340700": {
-    "confirmedCount": 9,
-    "cityName": "é“œé™µå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 16,
+    "cityName": "Í­ÁêÊĞ",
+    "color": "#ef9a9a"
   },
   "340800": {
-    "confirmedCount": 18,
-    "cityName": "å®‰åº†å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 37,
+    "cityName": "°²ÇìÊĞ",
+    "color": "#ef9a9a"
   },
   "341000": {
-    "confirmedCount": 7,
-    "cityName": "é»„å±±å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 9,
+    "cityName": "»ÆÉ½ÊĞ",
+    "color": "#ffcdd2"
   },
   "341100": {
-    "confirmedCount": 4,
-    "cityName": "æ»å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "³üÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "341200": {
-    "confirmedCount": 23,
-    "cityName": "é˜œé˜³å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 47,
+    "cityName": "¸·ÑôÊĞ",
+    "color": "#ef9a9a"
   },
   "341300": {
-    "confirmedCount": 9,
-    "cityName": "å®¿å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 12,
+    "cityName": "ËŞÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "341500": {
-    "confirmedCount": 6,
-    "cityName": "å…­å®‰å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 13,
+    "cityName": "Áù°²ÊĞ",
+    "color": "#ef9a9a"
   },
   "341600": {
-    "confirmedCount": 15,
-    "cityName": "äº³å·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 25,
+    "cityName": "ÙñÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "341700": {
-    "confirmedCount": 1,
-    "cityName": "æ± å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 4,
+    "cityName": "³ØÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "341800": {
-    "confirmedCount": 2,
-    "cityName": "å®£åŸå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 4,
+    "cityName": "Ğû³ÇÊĞ",
+    "color": "#ffcdd2"
   },
   "350100": {
-    "confirmedCount": 24,
-    "cityName": "ç¦å·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 39,
+    "cityName": "¸£ÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "350200": {
-    "confirmedCount": 6,
-    "cityName": "å¦é—¨å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 17,
+    "cityName": "ÏÃÃÅÊĞ",
+    "color": "#ef9a9a"
   },
   "350300": {
-    "confirmedCount": 14,
-    "cityName": "è†ç”°å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 25,
+    "cityName": "ÆÎÌïÊĞ",
+    "color": "#ef9a9a"
   },
   "350400": {
-    "confirmedCount": 8,
-    "cityName": "ä¸‰æ˜å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 10,
+    "cityName": "ÈıÃ÷ÊĞ",
+    "color": "#ef9a9a"
   },
   "350500": {
-    "confirmedCount": 13,
-    "cityName": "æ³‰å·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 24,
+    "cityName": "ÈªÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "350600": {
-    "confirmedCount": 6,
-    "cityName": "æ¼³å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 11,
+    "cityName": "ÕÄÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "350700": {
-    "confirmedCount": 3,
-    "cityName": "å—å¹³å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "ÄÏÆ½ÊĞ",
+    "color": "#ffcdd2"
   },
   "350800": {
     "confirmedCount": 1,
-    "cityName": "é¾™å²©å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ÁúÑÒÊĞ",
+    "color": "#ffcdd2"
   },
   "350900": {
-    "confirmedCount": 7,
-    "cityName": "å®å¾·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 9,
+    "cityName": "ÄşµÂÊĞ",
+    "color": "#ffcdd2"
   },
   "360100": {
-    "confirmedCount": 25,
-    "cityName": "å—æ˜Œå¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 83,
+    "cityName": "ÄÏ²ıÊĞ",
+    "color": "#ef9a9a"
   },
   "360200": {
-    "confirmedCount": 2,
-    "cityName": "æ™¯å¾·é•‡å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 3,
+    "cityName": "¾°µÂÕòÊĞ",
+    "color": "#ffcdd2"
   },
   "360300": {
-    "confirmedCount": 2,
-    "cityName": "èä¹¡å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 9,
+    "cityName": "Æ¼ÏçÊĞ",
+    "color": "#ffcdd2"
   },
   "360400": {
-    "confirmedCount": 16,
-    "cityName": "ä¹æ±Ÿå¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 43,
+    "cityName": "¾Å½­ÊĞ",
+    "color": "#ef9a9a"
   },
   "360500": {
-    "confirmedCount": 11,
-    "cityName": "æ–°ä½™å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 40,
+    "cityName": "ĞÂÓàÊĞ",
+    "color": "#ef9a9a"
   },
   "360600": {
-    "confirmedCount": 1,
-    "cityName": "é¹°æ½­å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 4,
+    "cityName": "Ó¥Ì¶ÊĞ",
+    "color": "#ffcdd2"
   },
   "360700": {
-    "confirmedCount": 16,
-    "cityName": "èµ£å·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 30,
+    "cityName": "¸ÓÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "360800": {
-    "confirmedCount": 4,
-    "cityName": "å‰å®‰å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 11,
+    "cityName": "¼ª°²ÊĞ",
+    "color": "#ef9a9a"
   },
   "360900": {
-    "confirmedCount": 14,
-    "cityName": "å®œæ˜¥å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 29,
+    "cityName": "ÒË´ºÊĞ",
+    "color": "#ef9a9a"
   },
   "361000": {
-    "confirmedCount": 9,
-    "cityName": "æŠšå·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 18,
+    "cityName": "¸§ÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "361100": {
-    "confirmedCount": 9,
-    "cityName": "ä¸Šé¥¶å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 16,
+    "cityName": "ÉÏÈÄÊĞ",
+    "color": "#ef9a9a"
   },
   "370100": {
-    "confirmedCount": 11,
-    "cityName": "æµå—å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 18,
+    "cityName": "¼ÃÄÏÊĞ",
+    "color": "#ef9a9a"
   },
   "370200": {
-    "confirmedCount": 15,
-    "cityName": "é’å²›å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 21,
+    "cityName": "ÇàµºÊĞ",
+    "color": "#ef9a9a"
   },
   "370300": {
-    "confirmedCount": 4,
-    "cityName": "æ·„åšå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 10,
+    "cityName": "×Í²©ÊĞ",
+    "color": "#ef9a9a"
   },
   "370400": {
-    "confirmedCount": 8,
-    "cityName": "æ£åº„å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 12,
+    "cityName": "Ôæ×¯ÊĞ",
+    "color": "#ef9a9a"
   },
   "370500": {
     "confirmedCount": 0,
-    "cityName": "ä¸œè¥å¸‚",
+    "cityName": "¶«ÓªÊĞ",
     "color": "#FFFFFF"
   },
   "370600": {
-    "confirmedCount": 10,
-    "cityName": "çƒŸå°å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 20,
+    "cityName": "ÑÌÌ¨ÊĞ",
+    "color": "#ef9a9a"
   },
   "370700": {
-    "confirmedCount": 5,
-    "cityName": "æ½åŠå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 9,
+    "cityName": "Î«·»ÊĞ",
+    "color": "#ffcdd2"
   },
   "370800": {
-    "confirmedCount": 5,
-    "cityName": "æµå®å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 11,
+    "cityName": "¼ÃÄşÊĞ",
+    "color": "#ef9a9a"
   },
   "370900": {
-    "confirmedCount": 3,
-    "cityName": "æ³°å®‰å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "Ì©°²ÊĞ",
+    "color": "#ffcdd2"
   },
   "371000": {
-    "confirmedCount": 11,
-    "cityName": "å¨æµ·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 24,
+    "cityName": "Íşº£ÊĞ",
+    "color": "#ef9a9a"
   },
   "371100": {
-    "confirmedCount": 7,
-    "cityName": "æ—¥ç…§å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 10,
+    "cityName": "ÈÕÕÕÊĞ",
+    "color": "#ef9a9a"
   },
   "371200": {
     "confirmedCount": 0,
-    "cityName": "è±èŠœå¸‚",
+    "cityName": "À³ÎßÊĞ",
     "color": "#FFFFFF"
   },
   "371300": {
-    "confirmedCount": 15,
-    "cityName": "ä¸´æ²‚å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 23,
+    "cityName": "ÁÙÒÊÊĞ",
+    "color": "#ef9a9a"
   },
   "371400": {
-    "confirmedCount": 11,
-    "cityName": "å¾·å·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 17,
+    "cityName": "µÂÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "371500": {
-    "confirmedCount": 3,
-    "cityName": "èŠåŸå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "ÁÄ³ÇÊĞ",
+    "color": "#ffcdd2"
   },
   "371600": {
-    "confirmedCount": 6,
-    "cityName": "æ»¨å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 9,
+    "cityName": "±õÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "371700": {
-    "confirmedCount": 7,
-    "cityName": "èæ³½å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "ºÊÔóÊĞ",
+    "color": "#ffcdd2"
   },
   "410100": {
-    "confirmedCount": 40,
-    "cityName": "éƒ‘å·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 56,
+    "cityName": "Ö£ÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "410200": {
-    "confirmedCount": 3,
-    "cityName": "å¼€å°å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "¿ª·âÊĞ",
+    "color": "#ffcdd2"
   },
   "410300": {
-    "confirmedCount": 2,
-    "cityName": "æ´›é˜³å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "ÂåÑôÊĞ",
+    "color": "#ffcdd2"
   },
   "410400": {
-    "confirmedCount": 5,
-    "cityName": "å¹³é¡¶å±±å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 11,
+    "cityName": "Æ½¶¥É½ÊĞ",
+    "color": "#ef9a9a"
   },
   "410500": {
-    "confirmedCount": 14,
-    "cityName": "å®‰é˜³å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 25,
+    "cityName": "°²ÑôÊĞ",
+    "color": "#ef9a9a"
   },
   "410600": {
-    "confirmedCount": 5,
-    "cityName": "é¹¤å£å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "º×±ÚÊĞ",
+    "color": "#ffcdd2"
   },
   "410700": {
-    "confirmedCount": 7,
-    "cityName": "æ–°ä¹¡å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 23,
+    "cityName": "ĞÂÏçÊĞ",
+    "color": "#ef9a9a"
   },
   "410800": {
     "confirmedCount": 2,
-    "cityName": "ç„¦ä½œå¸‚",
-    "color": "#F08E7E"
+    "cityName": "½¹×÷ÊĞ",
+    "color": "#ffcdd2"
   },
   "410900": {
-    "confirmedCount": 1,
-    "cityName": "æ¿®é˜³å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 3,
+    "cityName": "å§ÑôÊĞ",
+    "color": "#ffcdd2"
   },
   "411000": {
-    "confirmedCount": 2,
-    "cityName": "è®¸æ˜Œå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 12,
+    "cityName": "Ğí²ıÊĞ",
+    "color": "#ef9a9a"
   },
   "411100": {
-    "confirmedCount": 9,
-    "cityName": "æ¼¯æ²³å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 14,
+    "cityName": "äğºÓÊĞ",
+    "color": "#ef9a9a"
   },
   "411200": {
-    "confirmedCount": 4,
-    "cityName": "ä¸‰é—¨å³¡å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 7,
+    "cityName": "ÈıÃÅÏ¿ÊĞ",
+    "color": "#ffcdd2"
   },
   "411300": {
-    "confirmedCount": 31,
-    "cityName": "å—é˜³å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 66,
+    "cityName": "ÄÏÑôÊĞ",
+    "color": "#ef9a9a"
   },
   "411400": {
-    "confirmedCount": 14,
-    "cityName": "å•†ä¸˜å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 36,
+    "cityName": "ÉÌÇğÊĞ",
+    "color": "#ef9a9a"
   },
   "411500": {
-    "confirmedCount": 32,
-    "cityName": "ä¿¡é˜³å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 70,
+    "cityName": "ĞÅÑôÊĞ",
+    "color": "#ef9a9a"
   },
   "411600": {
-    "confirmedCount": 19,
-    "cityName": "å‘¨å£å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 38,
+    "cityName": "ÖÜ¿ÚÊĞ",
+    "color": "#ef9a9a"
   },
   "411700": {
-    "confirmedCount": 16,
-    "cityName": "é©»é©¬åº—å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 40,
+    "cityName": "×¤ÂíµêÊĞ",
+    "color": "#ef9a9a"
   },
   "419001": {
     "confirmedCount": 0,
-    "cityName": "æµæºå¸‚",
+    "cityName": "¼ÃÔ´ÊĞ",
     "color": "#FFFFFF"
   },
   "420100": {
-    "confirmedCount": 1905,
-    "cityName": "æ­¦æ±‰å¸‚",
-    "color": "#73181B"
+    "confirmedCount": 3215,
+    "cityName": "ÎäººÊĞ",
+    "color": "#b71c1c"
   },
   "420200": {
-    "confirmedCount": 86,
-    "cityName": "é»„çŸ³å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 209,
+    "cityName": "»ÆÊ¯ÊĞ",
+    "color": "#ef5350"
   },
   "420300": {
-    "confirmedCount": 88,
-    "cityName": "åå °å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 177,
+    "cityName": "Ê®ÑßÊĞ",
+    "color": "#ef5350"
   },
   "420500": {
-    "confirmedCount": 63,
-    "cityName": "å®œæ˜Œå¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 276,
+    "cityName": "ÒË²ıÊĞ",
+    "color": "#ef5350"
   },
   "420600": {
-    "confirmedCount": 131,
-    "cityName": "è¥„é˜³å¸‚",
-    "color": "#73181B"
+    "confirmedCount": 347,
+    "cityName": "ÏåÑôÊĞ",
+    "color": "#ef5350"
   },
   "420700": {
-    "confirmedCount": 84,
-    "cityName": "é„‚å·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 227,
+    "cityName": "¶õÖİÊĞ",
+    "color": "#ef5350"
   },
   "420800": {
-    "confirmedCount": 142,
-    "cityName": "è†é—¨å¸‚",
-    "color": "#73181B"
+    "confirmedCount": 251,
+    "cityName": "¾£ÃÅÊĞ",
+    "color": "#ef5350"
   },
   "420900": {
-    "confirmedCount": 274,
-    "cityName": "å­æ„Ÿå¸‚",
-    "color": "#73181B"
+    "confirmedCount": 628,
+    "cityName": "Ğ¢¸ĞÊĞ",
+    "color": "#e53935"
   },
   "421000": {
-    "confirmedCount": 101,
-    "cityName": "è†å·å¸‚",
-    "color": "#73181B"
+    "confirmedCount": 287,
+    "cityName": "¾£ÖİÊĞ",
+    "color": "#ef5350"
   },
   "421100": {
-    "confirmedCount": 324,
-    "cityName": "é»„å†ˆå¸‚",
-    "color": "#73181B"
+    "confirmedCount": 726,
+    "cityName": "»Æ¸ÔÊĞ",
+    "color": "#e53935"
   },
   "421200": {
-    "confirmedCount": 112,
-    "cityName": "å’¸å®å¸‚",
-    "color": "#73181B"
+    "confirmedCount": 206,
+    "cityName": "ÏÌÄşÊĞ",
+    "color": "#ef5350"
   },
   "421300": {
-    "confirmedCount": 116,
-    "cityName": "éšå·å¸‚",
-    "color": "#73181B"
+    "confirmedCount": 304,
+    "cityName": "ËæÖİÊĞ",
+    "color": "#ef5350"
   },
   "422800": {
-    "confirmedCount": 51,
-    "cityName": "æ©æ–½åœŸå®¶æ—è‹—æ—è‡ªæ²»å·",
-    "color": "#E04B49"
+    "confirmedCount": 87,
+    "cityName": "¶÷Ê©ÍÁ¼Ò×åÃç×å×ÔÖÎÖİ",
+    "color": "#ef9a9a"
   },
   "429004": {
-    "confirmedCount": 32,
-    "cityName": "ä»™æ¡ƒå¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 97,
+    "cityName": "ÏÉÌÒÊĞ",
+    "color": "#ef9a9a"
   },
   "429005": {
-    "confirmedCount": 8,
-    "cityName": "æ½œæ±Ÿå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 27,
+    "cityName": "Ç±½­ÊĞ",
+    "color": "#ef9a9a"
   },
   "429006": {
-    "confirmedCount": 34,
-    "cityName": "å¤©é—¨å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 82,
+    "cityName": "ÌìÃÅÊĞ",
+    "color": "#ef9a9a"
   },
   "429021": {
-    "confirmedCount": 3,
-    "cityName": "ç¥å†œæ¶æ—åŒº",
-    "color": "#F08E7E"
+    "confirmedCount": 7,
+    "cityName": "ÉñÅ©¼ÜÁÖÇø",
+    "color": "#ffcdd2"
   },
   "430100": {
-    "confirmedCount": 46,
-    "cityName": "é•¿æ²™å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 86,
+    "cityName": "³¤É³ÊĞ",
+    "color": "#ef9a9a"
   },
   "430200": {
-    "confirmedCount": 13,
-    "cityName": "æ ªæ´²å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 22,
+    "cityName": "ÖêÖŞÊĞ",
+    "color": "#ef9a9a"
   },
   "430300": {
-    "confirmedCount": 8,
-    "cityName": "æ¹˜æ½­å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 13,
+    "cityName": "ÏæÌ¶ÊĞ",
+    "color": "#ef9a9a"
   },
   "430400": {
-    "confirmedCount": 17,
-    "cityName": "è¡¡é˜³å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 26,
+    "cityName": "ºâÑôÊĞ",
+    "color": "#ef9a9a"
   },
   "430500": {
-    "confirmedCount": 19,
-    "cityName": "é‚µé˜³å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 41,
+    "cityName": "ÉÛÑôÊĞ",
+    "color": "#ef9a9a"
   },
   "430600": {
-    "confirmedCount": 26,
-    "cityName": "å²³é˜³å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 45,
+    "cityName": "ÔÀÑôÊĞ",
+    "color": "#ef9a9a"
   },
   "430700": {
-    "confirmedCount": 26,
-    "cityName": "å¸¸å¾·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 39,
+    "cityName": "³£µÂÊĞ",
+    "color": "#ef9a9a"
   },
   "430800": {
-    "confirmedCount": 0,
-    "cityName": "å¼ å®¶ç•Œå¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 2,
+    "cityName": "ÕÅ¼Ò½çÊĞ",
+    "color": "#ffcdd2"
   },
   "430900": {
-    "confirmedCount": 14,
-    "cityName": "ç›Šé˜³å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 24,
+    "cityName": "ÒæÑôÊĞ",
+    "color": "#ef9a9a"
   },
   "431000": {
-    "confirmedCount": 7,
-    "cityName": "éƒ´å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 13,
+    "cityName": "³»ÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "431100": {
-    "confirmedCount": 11,
-    "cityName": "æ°¸å·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 18,
+    "cityName": "ÓÀÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "431200": {
-    "confirmedCount": 18,
-    "cityName": "æ€€åŒ–å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 28,
+    "cityName": "»³»¯ÊĞ",
+    "color": "#ef9a9a"
   },
   "431300": {
-    "confirmedCount": 13,
-    "cityName": "å¨„åº•å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 26,
+    "cityName": "Â¦µ×ÊĞ",
+    "color": "#ef9a9a"
   },
   "433100": {
-    "confirmedCount": 3,
-    "cityName": "æ¹˜è¥¿åœŸå®¶æ—è‹—æ—è‡ªæ²»å·",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "ÏæÎ÷ÍÁ¼Ò×åÃç×å×ÔÖÎÖİ",
+    "color": "#ffcdd2"
   },
   "440100": {
-    "confirmedCount": 63,
-    "cityName": "å¹¿å·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 150,
+    "cityName": "¹ãÖİÊĞ",
+    "color": "#ef5350"
   },
   "440200": {
     "confirmedCount": 4,
-    "cityName": "éŸ¶å…³å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ÉØ¹ØÊĞ",
+    "color": "#ffcdd2"
   },
   "440300": {
-    "confirmedCount": 63,
-    "cityName": "æ·±åœ³å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 170,
+    "cityName": "ÉîÛÚÊĞ",
+    "color": "#ef5350"
   },
   "440400": {
-    "confirmedCount": 14,
-    "cityName": "ç æµ·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 38,
+    "cityName": "Öéº£ÊĞ",
+    "color": "#ef9a9a"
   },
   "440500": {
-    "confirmedCount": 6,
-    "cityName": "æ±•å¤´å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 14,
+    "cityName": "ÉÇÍ·ÊĞ",
+    "color": "#ef9a9a"
   },
   "440600": {
-    "confirmedCount": 18,
-    "cityName": "ä½›å±±å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 39,
+    "cityName": "·ğÉ½ÊĞ",
+    "color": "#ef9a9a"
   },
   "440700": {
-    "confirmedCount": 0,
-    "cityName": "æ±Ÿé—¨å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 3,
+    "cityName": "½­ÃÅÊĞ",
+    "color": "#ffcdd2"
   },
   "440800": {
-    "confirmedCount": 7,
-    "cityName": "æ¹›æ±Ÿå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 13,
+    "cityName": "Õ¿½­ÊĞ",
+    "color": "#ef9a9a"
   },
   "440900": {
-    "confirmedCount": 2,
-    "cityName": "èŒ‚åå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 3,
+    "cityName": "Ã¯ÃûÊĞ",
+    "color": "#ffcdd2"
   },
   "441200": {
-    "confirmedCount": 5,
-    "cityName": "è‚‡åº†å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "ÕØÇìÊĞ",
+    "color": "#ffcdd2"
   },
   "441300": {
-    "confirmedCount": 12,
-    "cityName": "æƒ å·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 20,
+    "cityName": "»İÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "441400": {
-    "confirmedCount": 4,
-    "cityName": "æ¢…å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "Ã·ÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "441500": {
-    "confirmedCount": 1,
-    "cityName": "æ±•å°¾å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 4,
+    "cityName": "ÉÇÎ²ÊĞ",
+    "color": "#ffcdd2"
   },
   "441600": {
     "confirmedCount": 1,
-    "cityName": "æ²³æºå¸‚",
-    "color": "#F08E7E"
+    "cityName": "ºÓÔ´ÊĞ",
+    "color": "#ffcdd2"
   },
   "441700": {
     "confirmedCount": 10,
-    "cityName": "é˜³æ±Ÿå¸‚",
-    "color": "#E04B49"
+    "cityName": "Ñô½­ÊĞ",
+    "color": "#ef9a9a"
   },
   "441800": {
     "confirmedCount": 6,
-    "cityName": "æ¸…è¿œå¸‚",
-    "color": "#F08E7E"
+    "cityName": "ÇåÔ¶ÊĞ",
+    "color": "#ffcdd2"
   },
   "441900": {
-    "confirmedCount": 7,
-    "cityName": "ä¸œèå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 21,
+    "cityName": "¶«İ¸ÊĞ",
+    "color": "#ef9a9a"
   },
   "442000": {
-    "confirmedCount": 12,
-    "cityName": "ä¸­å±±å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 18,
+    "cityName": "ÖĞÉ½ÊĞ",
+    "color": "#ef9a9a"
   },
   "442100": {
     "confirmedCount": 0,
-    "cityName": "ä¸œæ²™ç¾¤å²›",
+    "cityName": "¶«É³Èºµº",
     "color": "#FFFFFF"
   },
   "445100": {
-    "confirmedCount": 0,
-    "cityName": "æ½®å·å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 3,
+    "cityName": "³±ÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "445200": {
     "confirmedCount": 6,
-    "cityName": "æ­é˜³å¸‚",
-    "color": "#F08E7E"
+    "cityName": "½ÒÑôÊĞ",
+    "color": "#ffcdd2"
   },
   "445300": {
     "confirmedCount": 0,
-    "cityName": "äº‘æµ®å¸‚",
+    "cityName": "ÔÆ¸¡ÊĞ",
     "color": "#FFFFFF"
   },
   "450100": {
-    "confirmedCount": 7,
-    "cityName": "å—å®å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 16,
+    "cityName": "ÄÏÄşÊĞ",
+    "color": "#ef9a9a"
   },
   "450200": {
-    "confirmedCount": 6,
-    "cityName": "æŸ³å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 12,
+    "cityName": "ÁøÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "450300": {
-    "confirmedCount": 16,
-    "cityName": "æ¡‚æ—å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 21,
+    "cityName": "¹ğÁÖÊĞ",
+    "color": "#ef9a9a"
   },
   "450400": {
-    "confirmedCount": 4,
-    "cityName": "æ¢§å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "ÎàÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "450500": {
-    "confirmedCount": 13,
-    "cityName": "åŒ—æµ·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 23,
+    "cityName": "±±º£ÊĞ",
+    "color": "#ef9a9a"
   },
   "450600": {
-    "confirmedCount": 5,
-    "cityName": "é˜²åŸæ¸¯å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "·À³Ç¸ÛÊĞ",
+    "color": "#ffcdd2"
   },
   "450700": {
-    "confirmedCount": 0,
-    "cityName": "é’¦å·å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "ÇÕÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "450800": {
     "confirmedCount": 0,
-    "cityName": "è´µæ¸¯å¸‚",
+    "cityName": "¹ó¸ÛÊĞ",
     "color": "#FFFFFF"
   },
   "450900": {
-    "confirmedCount": 2,
-    "cityName": "ç‰æ—å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "ÓñÁÖÊĞ",
+    "color": "#ffcdd2"
   },
   "451000": {
     "confirmedCount": 2,
-    "cityName": "ç™¾è‰²å¸‚",
-    "color": "#F08E7E"
+    "cityName": "°ÙÉ«ÊĞ",
+    "color": "#ffcdd2"
   },
   "451100": {
-    "confirmedCount": 0,
-    "cityName": "è´ºå·å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "ºØÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "451200": {
-    "confirmedCount": 3,
-    "cityName": "æ²³æ± å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "ºÓ³ØÊĞ",
+    "color": "#ffcdd2"
   },
   "451300": {
     "confirmedCount": 0,
-    "cityName": "æ¥å®¾å¸‚",
+    "cityName": "À´±öÊĞ",
     "color": "#FFFFFF"
   },
   "451400": {
     "confirmedCount": 0,
-    "cityName": "å´‡å·¦å¸‚",
+    "cityName": "³ç×óÊĞ",
     "color": "#FFFFFF"
   },
   "460100": {
-    "confirmedCount": 9,
-    "cityName": "æµ·å£å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 11,
+    "cityName": "º£¿ÚÊĞ",
+    "color": "#ef9a9a"
   },
   "460200": {
-    "confirmedCount": 14,
-    "cityName": "ä¸‰äºšå¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 16,
+    "cityName": "ÈıÑÇÊĞ",
+    "color": "#ef9a9a"
   },
   "460300": {
     "confirmedCount": 0,
-    "cityName": "ä¸‰æ²™å¸‚",
+    "cityName": "ÈıÉ³ÊĞ",
     "color": "#FFFFFF"
   },
   "460400": {
-    "confirmedCount": 5,
-    "cityName": "å„‹å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "ÙÙÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "469001": {
     "confirmedCount": 0,
-    "cityName": "äº”æŒ‡å±±å¸‚",
+    "cityName": "ÎåÖ¸É½ÊĞ",
     "color": "#FFFFFF"
   },
   "469002": {
-    "confirmedCount": 1,
-    "cityName": "ç¼æµ·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "Çíº£ÊĞ",
+    "color": "#ffcdd2"
   },
   "469005": {
     "confirmedCount": 0,
-    "cityName": "æ–‡æ˜Œå¸‚",
+    "cityName": "ÎÄ²ıÊĞ",
     "color": "#FFFFFF"
   },
   "469006": {
     "confirmedCount": 8,
-    "cityName": "ä¸‡å®å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ÍòÄşÊĞ",
+    "color": "#ffcdd2"
   },
   "469007": {
     "confirmedCount": 1,
-    "cityName": "ä¸œæ–¹å¸‚",
-    "color": "#F08E7E"
+    "cityName": "¶«·½ÊĞ",
+    "color": "#ffcdd2"
   },
   "469021": {
-    "confirmedCount": 0,
-    "cityName": "å®šå®‰å¿",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "¶¨°²ÏØ",
+    "color": "#ffcdd2"
   },
   "469022": {
     "confirmedCount": 0,
-    "cityName": "å±¯æ˜Œå¿",
+    "cityName": "ÍÍ²ıÏØ",
     "color": "#FFFFFF"
   },
   "469023": {
     "confirmedCount": 2,
-    "cityName": "æ¾„è¿ˆå¿",
-    "color": "#F08E7E"
+    "cityName": "³ÎÂõÏØ",
+    "color": "#ffcdd2"
   },
   "469024": {
-    "confirmedCount": 1,
-    "cityName": "ä¸´é«˜å¿",
-    "color": "#F08E7E"
+    "confirmedCount": 4,
+    "cityName": "ÁÙ¸ßÏØ",
+    "color": "#ffcdd2"
   },
   "469025": {
     "confirmedCount": 0,
-    "cityName": "ç™½æ²™é»æ—è‡ªæ²»å¿",
+    "cityName": "°×É³Àè×å×ÔÖÎÏØ",
     "color": "#FFFFFF"
   },
   "469026": {
-    "confirmedCount": 0,
-    "cityName": "æ˜Œæ±Ÿé»æ—è‡ªæ²»å¿",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "²ı½­Àè×å×ÔÖÎÏØ",
+    "color": "#ffcdd2"
   },
   "469027": {
-    "confirmedCount": 0,
-    "cityName": "ä¹ä¸œé»æ—è‡ªæ²»å¿",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "ÀÖ¶«Àè×å×ÔÖÎÏØ",
+    "color": "#ffcdd2"
   },
   "469028": {
-    "confirmedCount": 1,
-    "cityName": "é™µæ°´é»æ—è‡ªæ²»å¿",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "ÁêË®Àè×å×ÔÖÎÏØ",
+    "color": "#ffcdd2"
   },
   "469029": {
     "confirmedCount": 0,
-    "cityName": "ä¿äº­é»æ—è‹—æ—è‡ªæ²»å¿",
+    "cityName": "±£Í¤Àè×åÃç×å×ÔÖÎÏØ",
     "color": "#FFFFFF"
   },
   "469030": {
     "confirmedCount": 1,
-    "cityName": "ç¼ä¸­é»æ—è‹—æ—è‡ªæ²»å¿",
-    "color": "#F08E7E"
+    "cityName": "ÇíÖĞÀè×åÃç×å×ÔÖÎÏØ",
+    "color": "#ffcdd2"
   },
   "500000": {
     "confirmedCount": 0,
-    "cityName": "é‡åº†å¸‚",
+    "cityName": "ÖØÇìÊĞ",
     "color": "#FFFFFF"
   },
   "500101": {
-    "confirmedCount": 17,
-    "cityName": "ä¸‡å·åŒº",
-    "color": "#E04B49"
+    "confirmedCount": 39,
+    "cityName": "ÍòÖİÇø",
+    "color": "#ef9a9a"
   },
   "500102": {
     "confirmedCount": 1,
-    "cityName": "æ¶ªé™µåŒº",
-    "color": "#F08E7E"
+    "cityName": "¸¢ÁêÇø",
+    "color": "#ffcdd2"
   },
   "500103": {
-    "confirmedCount": 1,
-    "cityName": "æ¸ä¸­åŒº",
-    "color": "#F08E7E"
+    "confirmedCount": 7,
+    "cityName": "ÓåÖĞÇø",
+    "color": "#ffcdd2"
   },
   "500104": {
     "confirmedCount": 6,
-    "cityName": "å¤§æ¸¡å£åŒº",
-    "color": "#F08E7E"
+    "cityName": "´ó¶É¿ÚÇø",
+    "color": "#ffcdd2"
   },
   "500105": {
-    "confirmedCount": 5,
-    "cityName": "æ±ŸåŒ—åŒº",
-    "color": "#F08E7E"
+    "confirmedCount": 12,
+    "cityName": "½­±±Çø",
+    "color": "#ef9a9a"
   },
   "500106": {
-    "confirmedCount": 0,
-    "cityName": "æ²™åªååŒº",
-    "color": "#FFFFFF"
+    "confirmedCount": 2,
+    "cityName": "É³Æº°ÓÇø",
+    "color": "#ffcdd2"
   },
   "500107": {
-    "confirmedCount": 5,
-    "cityName": "ä¹é¾™å¡åŒº",
-    "color": "#F08E7E"
+    "confirmedCount": 9,
+    "cityName": "¾ÅÁúÆÂÇø",
+    "color": "#ffcdd2"
   },
   "500108": {
-    "confirmedCount": 1,
-    "cityName": "å—å²¸åŒº",
-    "color": "#F08E7E"
+    "confirmedCount": 3,
+    "cityName": "ÄÏ°¶Çø",
+    "color": "#ffcdd2"
   },
   "500109": {
     "confirmedCount": 0,
-    "cityName": "åŒ—ç¢šåŒº",
+    "cityName": "±±íÕÇø",
     "color": "#FFFFFF"
   },
   "500110": {
     "confirmedCount": 4,
-    "cityName": "ç¶¦æ±ŸåŒº",
-    "color": "#F08E7E"
+    "cityName": "ôë½­Çø",
+    "color": "#ffcdd2"
   },
   "500111": {
-    "confirmedCount": 1,
-    "cityName": "å¤§è¶³åŒº",
-    "color": "#F08E7E"
+    "confirmedCount": 4,
+    "cityName": "´ó×ãÇø",
+    "color": "#ffcdd2"
   },
   "500112": {
-    "confirmedCount": 14,
-    "cityName": "æ¸åŒ—åŒº",
-    "color": "#E04B49"
+    "confirmedCount": 21,
+    "cityName": "Óå±±Çø",
+    "color": "#ef9a9a"
   },
   "500113": {
     "confirmedCount": 1,
-    "cityName": "å·´å—åŒº",
-    "color": "#F08E7E"
+    "cityName": "°ÍÄÏÇø",
+    "color": "#ffcdd2"
   },
   "500114": {
-    "confirmedCount": 1,
-    "cityName": "é»”æ±ŸåŒº",
-    "color": "#F08E7E"
+    "confirmedCount": 2,
+    "cityName": "Ç­½­Çø",
+    "color": "#ffcdd2"
   },
   "500115": {
-    "confirmedCount": 7,
-    "cityName": "é•¿å¯¿åŒº",
-    "color": "#F08E7E"
+    "confirmedCount": 10,
+    "cityName": "³¤ÊÙÇø",
+    "color": "#ef9a9a"
   },
   "500116": {
-    "confirmedCount": 2,
-    "cityName": "æ±Ÿæ´¥åŒº",
-    "color": "#F08E7E"
+    "confirmedCount": 3,
+    "cityName": "½­½òÇø",
+    "color": "#ffcdd2"
   },
   "500117": {
-    "confirmedCount": 5,
-    "cityName": "åˆå·åŒº",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "ºÏ´¨Çø",
+    "color": "#ffcdd2"
   },
   "500118": {
     "confirmedCount": 3,
-    "cityName": "æ°¸å·åŒº",
-    "color": "#F08E7E"
+    "cityName": "ÓÀ´¨Çø",
+    "color": "#ffcdd2"
   },
   "500119": {
     "confirmedCount": 0,
-    "cityName": "å—å·åŒº",
+    "cityName": "ÄÏ´¨Çø",
     "color": "#FFFFFF"
   },
   "500120": {
-    "confirmedCount": 4,
-    "cityName": "ç’§å±±åŒº",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "èµÉ½Çø",
+    "color": "#ffcdd2"
   },
   "500151": {
     "confirmedCount": 2,
-    "cityName": "é“œæ¢åŒº",
-    "color": "#F08E7E"
+    "cityName": "Í­ÁºÇø",
+    "color": "#ffcdd2"
   },
   "500152": {
     "confirmedCount": 2,
-    "cityName": "æ½¼å—åŒº",
-    "color": "#F08E7E"
+    "cityName": "äüÄÏÇø",
+    "color": "#ffcdd2"
   },
   "500153": {
-    "confirmedCount": 0,
-    "cityName": "è£æ˜ŒåŒº",
-    "color": "#FFFFFF"
+    "confirmedCount": 2,
+    "cityName": "ÈÙ²ıÇø",
+    "color": "#ffcdd2"
   },
   "500154": {
-    "confirmedCount": 11,
-    "cityName": "å¼€å·åŒº",
-    "color": "#E04B49"
+    "confirmedCount": 16,
+    "cityName": "¿ªÖİÇø",
+    "color": "#ef9a9a"
   },
   "500155": {
-    "confirmedCount": 1,
-    "cityName": "æ¢å¹³åŒº",
-    "color": "#F08E7E"
+    "confirmedCount": 2,
+    "cityName": "ÁºÆ½Çø",
+    "color": "#ffcdd2"
   },
   "500156": {
-    "confirmedCount": 0,
-    "cityName": "æ­¦éš†åŒº",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "ÎäÂ¡Çø",
+    "color": "#ffcdd2"
   },
   "500229": {
     "confirmedCount": 1,
-    "cityName": "åŸå£å¿",
-    "color": "#F08E7E"
+    "cityName": "³Ç¿ÚÏØ",
+    "color": "#ffcdd2"
   },
   "500230": {
-    "confirmedCount": 3,
-    "cityName": "ä¸°éƒ½å¿",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "·á¶¼ÏØ",
+    "color": "#ffcdd2"
   },
   "500231": {
-    "confirmedCount": 5,
-    "cityName": "å«æ±Ÿå¿",
-    "color": "#F08E7E"
+    "confirmedCount": 11,
+    "cityName": "µæ½­ÏØ",
+    "color": "#ef9a9a"
   },
   "500233": {
-    "confirmedCount": 11,
-    "cityName": "å¿ å¿",
-    "color": "#E04B49"
+    "confirmedCount": 12,
+    "cityName": "ÖÒÏØ",
+    "color": "#ef9a9a"
   },
   "500235": {
-    "confirmedCount": 11,
-    "cityName": "äº‘é˜³å¿",
-    "color": "#E04B49"
+    "confirmedCount": 18,
+    "cityName": "ÔÆÑôÏØ",
+    "color": "#ef9a9a"
   },
   "500236": {
-    "confirmedCount": 4,
-    "cityName": "å¥‰èŠ‚å¿",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "·î½ÚÏØ",
+    "color": "#ffcdd2"
   },
   "500237": {
-    "confirmedCount": 5,
-    "cityName": "å·«å±±å¿",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "Î×É½ÏØ",
+    "color": "#ffcdd2"
   },
   "500238": {
-    "confirmedCount": 5,
-    "cityName": "å·«æºªå¿",
-    "color": "#F08E7E"
+    "confirmedCount": 10,
+    "cityName": "Î×ÏªÏØ",
+    "color": "#ef9a9a"
   },
   "500240": {
-    "confirmedCount": 7,
-    "cityName": "çŸ³æŸ±åœŸå®¶æ—è‡ªæ²»å¿",
-    "color": "#F08E7E"
+    "confirmedCount": 10,
+    "cityName": "Ê¯ÖùÍÁ¼Ò×å×ÔÖÎÏØ",
+    "color": "#ef9a9a"
   },
   "500241": {
     "confirmedCount": 1,
-    "cityName": "ç§€å±±åœŸå®¶æ—è‹—æ—è‡ªæ²»å¿",
-    "color": "#F08E7E"
+    "cityName": "ĞãÉ½ÍÁ¼Ò×åÃç×å×ÔÖÎÏØ",
+    "color": "#ffcdd2"
   },
   "500242": {
     "confirmedCount": 0,
-    "cityName": "é…‰é˜³åœŸå®¶æ—è‹—æ—è‡ªæ²»å¿",
+    "cityName": "ÓÏÑôÍÁ¼Ò×åÃç×å×ÔÖÎÏØ",
     "color": "#FFFFFF"
   },
   "500243": {
     "confirmedCount": 0,
-    "cityName": "å½­æ°´è‹—æ—åœŸå®¶æ—è‡ªæ²»å¿",
+    "cityName": "ÅíË®Ãç×åÍÁ¼Ò×å×ÔÖÎÏØ",
     "color": "#FFFFFF"
   },
   "510100": {
-    "confirmedCount": 46,
-    "cityName": "æˆéƒ½å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 72,
+    "cityName": "³É¶¼ÊĞ",
+    "color": "#ef9a9a"
   },
   "510300": {
-    "confirmedCount": 7,
-    "cityName": "è‡ªè´¡å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 9,
+    "cityName": "×Ô¹±ÊĞ",
+    "color": "#ffcdd2"
   },
   "510400": {
-    "confirmedCount": 0,
-    "cityName": "æ”€æèŠ±å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 7,
+    "cityName": "ÅÊÖ¦»¨ÊĞ",
+    "color": "#ffcdd2"
   },
   "510500": {
     "confirmedCount": 5,
-    "cityName": "æ³¸å·å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ãòÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "510600": {
-    "confirmedCount": 2,
-    "cityName": "å¾·é˜³å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 7,
+    "cityName": "µÂÑôÊĞ",
+    "color": "#ffcdd2"
   },
   "510700": {
-    "confirmedCount": 8,
-    "cityName": "ç»µé˜³å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 12,
+    "cityName": "ÃàÑôÊĞ",
+    "color": "#ef9a9a"
   },
   "510800": {
-    "confirmedCount": 1,
-    "cityName": "å¹¿å…ƒå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 2,
+    "cityName": "¹ãÔªÊĞ",
+    "color": "#ffcdd2"
   },
   "510900": {
-    "confirmedCount": 3,
-    "cityName": "é‚å®å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "ËìÄşÊĞ",
+    "color": "#ffcdd2"
   },
   "511000": {
-    "confirmedCount": 4,
-    "cityName": "å†…æ±Ÿå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 10,
+    "cityName": "ÄÚ½­ÊĞ",
+    "color": "#ef9a9a"
   },
   "511100": {
     "confirmedCount": 2,
-    "cityName": "ä¹å±±å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ÀÖÉ½ÊĞ",
+    "color": "#ffcdd2"
   },
   "511300": {
-    "confirmedCount": 5,
-    "cityName": "å—å……å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 16,
+    "cityName": "ÄÏ³äÊĞ",
+    "color": "#ef9a9a"
   },
   "511400": {
-    "confirmedCount": 1,
-    "cityName": "çœ‰å±±å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 2,
+    "cityName": "Ã¼É½ÊĞ",
+    "color": "#ffcdd2"
   },
   "511500": {
-    "confirmedCount": 2,
-    "cityName": "å®œå®¾å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 7,
+    "cityName": "ÒË±öÊĞ",
+    "color": "#ffcdd2"
   },
   "511600": {
-    "confirmedCount": 7,
-    "cityName": "å¹¿å®‰å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 16,
+    "cityName": "¹ã°²ÊĞ",
+    "color": "#ef9a9a"
   },
   "511700": {
-    "confirmedCount": 4,
-    "cityName": "è¾¾å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 9,
+    "cityName": "´ïÖİÊĞ",
+    "color": "#ffcdd2"
   },
   "511800": {
-    "confirmedCount": 2,
-    "cityName": "é›…å®‰å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "ÑÅ°²ÊĞ",
+    "color": "#ffcdd2"
   },
   "511900": {
-    "confirmedCount": 2,
-    "cityName": "å·´ä¸­å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "°ÍÖĞÊĞ",
+    "color": "#ffcdd2"
   },
   "512000": {
     "confirmedCount": 2,
-    "cityName": "èµ„é˜³å¸‚",
-    "color": "#F08E7E"
+    "cityName": "×ÊÑôÊĞ",
+    "color": "#ffcdd2"
   },
   "513200": {
-    "confirmedCount": 0,
-    "cityName": "é˜¿åè—æ—ç¾Œæ—è‡ªæ²»å·",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "°¢°Ó²Ø×åÇ¼×å×ÔÖÎÖİ",
+    "color": "#ffcdd2"
   },
   "513300": {
-    "confirmedCount": 3,
-    "cityName": "ç”˜å­œè—æ—è‡ªæ²»å·",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "¸Ê×Î²Ø×å×ÔÖÎÖİ",
+    "color": "#ffcdd2"
   },
   "513400": {
-    "confirmedCount": 2,
-    "cityName": "å‡‰å±±å½æ—è‡ªæ²»å·",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "Á¹É½ÒÍ×å×ÔÖÎÖİ",
+    "color": "#ffcdd2"
   },
   "520100": {
-    "confirmedCount": 1,
-    "cityName": "è´µé˜³å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 4,
+    "cityName": "¹óÑôÊĞ",
+    "color": "#ffcdd2"
   },
   "520200": {
-    "confirmedCount": 1,
-    "cityName": "å…­ç›˜æ°´å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "ÁùÅÌË®ÊĞ",
+    "color": "#ffcdd2"
   },
   "520300": {
-    "confirmedCount": 0,
-    "cityName": "éµä¹‰å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 4,
+    "cityName": "×ñÒåÊĞ",
+    "color": "#ffcdd2"
   },
   "520400": {
     "confirmedCount": 0,
-    "cityName": "å®‰é¡ºå¸‚",
+    "cityName": "°²Ë³ÊĞ",
     "color": "#FFFFFF"
   },
   "520500": {
-    "confirmedCount": 0,
-    "cityName": "æ¯•èŠ‚å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 3,
+    "cityName": "±Ï½ÚÊĞ",
+    "color": "#ffcdd2"
   },
   "520600": {
-    "confirmedCount": 2,
-    "cityName": "é“œä»å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 3,
+    "cityName": "Í­ÈÊÊĞ",
+    "color": "#ffcdd2"
   },
   "522300": {
     "confirmedCount": 1,
-    "cityName": "é»”è¥¿å—å¸ƒä¾æ—è‹—æ—è‡ªæ²»å·",
-    "color": "#F08E7E"
+    "cityName": "Ç­Î÷ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖİ",
+    "color": "#ffcdd2"
   },
   "522600": {
-    "confirmedCount": 0,
-    "cityName": "é»”ä¸œå—è‹—æ—ä¾—æ—è‡ªæ²»å·",
-    "color": "#FFFFFF"
+    "confirmedCount": 2,
+    "cityName": "Ç­¶«ÄÏÃç×å¶±×å×ÔÖÎÖİ",
+    "color": "#ffcdd2"
   },
   "522700": {
     "confirmedCount": 4,
-    "cityName": "é»”å—å¸ƒä¾æ—è‹—æ—è‡ªæ²»å·",
-    "color": "#F08E7E"
+    "cityName": "Ç­ÄÏ²¼ÒÀ×åÃç×å×ÔÖÎÖİ",
+    "color": "#ffcdd2"
   },
   "530100": {
-    "confirmedCount": 12,
-    "cityName": "æ˜†æ˜å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 30,
+    "cityName": "À¥Ã÷ÊĞ",
+    "color": "#ef9a9a"
   },
   "530300": {
-    "confirmedCount": 2,
-    "cityName": "æ›²é–å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "Çú¾¸ÊĞ",
+    "color": "#ffcdd2"
   },
   "530400": {
-    "confirmedCount": 5,
-    "cityName": "ç‰æºªå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 7,
+    "cityName": "ÓñÏªÊĞ",
+    "color": "#ffcdd2"
   },
   "530500": {
-    "confirmedCount": 4,
-    "cityName": "ä¿å±±å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 7,
+    "cityName": "±£É½ÊĞ",
+    "color": "#ffcdd2"
   },
   "530600": {
-    "confirmedCount": 2,
-    "cityName": "æ˜­é€šå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "ÕÑÍ¨ÊĞ",
+    "color": "#ffcdd2"
   },
   "530700": {
     "confirmedCount": 6,
-    "cityName": "ä¸½æ±Ÿå¸‚",
-    "color": "#F08E7E"
+    "cityName": "Àö½­ÊĞ",
+    "color": "#ffcdd2"
   },
   "530800": {
-    "confirmedCount": 0,
-    "cityName": "æ™®æ´±å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 4,
+    "cityName": "ÆÕ¶ıÊĞ",
+    "color": "#ffcdd2"
   },
   "530900": {
-    "confirmedCount": 0,
-    "cityName": "ä¸´æ²§å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "ÁÙ²×ÊĞ",
+    "color": "#ffcdd2"
   },
   "532300": {
     "confirmedCount": 0,
-    "cityName": "æ¥šé›„å½æ—è‡ªæ²»å·",
+    "cityName": "³şĞÛÒÍ×å×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "532500": {
-    "confirmedCount": 2,
-    "cityName": "çº¢æ²³å“ˆå°¼æ—å½æ—è‡ªæ²»å·",
-    "color": "#F08E7E"
+    "confirmedCount": 4,
+    "cityName": "ºìºÓ¹şÄá×åÒÍ×å×ÔÖÎÖİ",
+    "color": "#ffcdd2"
   },
   "532600": {
     "confirmedCount": 0,
-    "cityName": "æ–‡å±±å£®æ—è‹—æ—è‡ªæ²»å·",
+    "cityName": "ÎÄÉ½×³×åÃç×å×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "532800": {
-    "confirmedCount": 6,
-    "cityName": "è¥¿åŒç‰ˆçº³å‚£æ—è‡ªæ²»å·",
-    "color": "#F08E7E"
+    "confirmedCount": 12,
+    "cityName": "Î÷Ë«°æÄÉ´ö×å×ÔÖÎÖİ",
+    "color": "#ef9a9a"
   },
   "532900": {
-    "confirmedCount": 3,
-    "cityName": "å¤§ç†ç™½æ—è‡ªæ²»å·",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "´óÀí°××å×ÔÖÎÖİ",
+    "color": "#ffcdd2"
   },
   "533100": {
-    "confirmedCount": 2,
-    "cityName": "å¾·å®å‚£æ—æ™¯é¢‡æ—è‡ªæ²»å·",
-    "color": "#F08E7E"
+    "confirmedCount": 3,
+    "cityName": "µÂºê´ö×å¾°ÆÄ×å×ÔÖÎÖİ",
+    "color": "#ffcdd2"
   },
   "533300": {
     "confirmedCount": 0,
-    "cityName": "æ€’æ±Ÿå‚ˆåƒ³æ—è‡ªæ²»å·",
+    "cityName": "Å­½­ÀüËÛ×å×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "533400": {
     "confirmedCount": 0,
-    "cityName": "è¿ªåº†è—æ—è‡ªæ²»å·",
+    "cityName": "µÏÇì²Ø×å×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "540100": {
-    "confirmedCount": 0,
-    "cityName": "æ‹‰è¨å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "À­ÈøÊĞ",
+    "color": "#ffcdd2"
   },
   "540200": {
     "confirmedCount": 0,
-    "cityName": "æ—¥å–€åˆ™å¸‚",
+    "cityName": "ÈÕ¿¦ÔòÊĞ",
     "color": "#FFFFFF"
   },
   "540300": {
     "confirmedCount": 0,
-    "cityName": "æ˜Œéƒ½å¸‚",
+    "cityName": "²ı¶¼ÊĞ",
     "color": "#FFFFFF"
   },
   "540400": {
     "confirmedCount": 0,
-    "cityName": "æ—èŠå¸‚",
+    "cityName": "ÁÖÖ¥ÊĞ",
     "color": "#FFFFFF"
   },
   "540500": {
     "confirmedCount": 0,
-    "cityName": "å±±å—å¸‚",
+    "cityName": "É½ÄÏÊĞ",
     "color": "#FFFFFF"
   },
   "540600": {
     "confirmedCount": 0,
-    "cityName": "é‚£æ›²å¸‚",
+    "cityName": "ÄÇÇúÊĞ",
     "color": "#FFFFFF"
   },
   "542500": {
     "confirmedCount": 0,
-    "cityName": "é˜¿é‡Œåœ°åŒº",
+    "cityName": "°¢ÀïµØÇø",
     "color": "#FFFFFF"
   },
   "610100": {
-    "confirmedCount": 18,
-    "cityName": "è¥¿å®‰å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 39,
+    "cityName": "Î÷°²ÊĞ",
+    "color": "#ef9a9a"
   },
   "610200": {
     "confirmedCount": 5,
-    "cityName": "é“œå·å¸‚",
-    "color": "#F08E7E"
+    "cityName": "Í­´¨ÊĞ",
+    "color": "#ffcdd2"
   },
   "610300": {
-    "confirmedCount": 4,
-    "cityName": "å®é¸¡å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "±¦¼¦ÊĞ",
+    "color": "#ffcdd2"
   },
   "610400": {
-    "confirmedCount": 5,
-    "cityName": "å’¸é˜³å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "ÏÌÑôÊĞ",
+    "color": "#ffcdd2"
   },
   "610500": {
-    "confirmedCount": 3,
-    "cityName": "æ¸­å—å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "Î¼ÄÏÊĞ",
+    "color": "#ffcdd2"
   },
   "610600": {
-    "confirmedCount": 3,
-    "cityName": "å»¶å®‰å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 7,
+    "cityName": "ÑÓ°²ÊĞ",
+    "color": "#ffcdd2"
   },
   "610700": {
-    "confirmedCount": 6,
-    "cityName": "æ±‰ä¸­å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 13,
+    "cityName": "ººÖĞÊĞ",
+    "color": "#ef9a9a"
   },
   "610800": {
-    "confirmedCount": 0,
-    "cityName": "æ¦†æ—å¸‚",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "ÓÜÁÖÊĞ",
+    "color": "#ffcdd2"
   },
   "610900": {
-    "confirmedCount": 10,
-    "cityName": "å®‰åº·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 14,
+    "cityName": "°²¿µÊĞ",
+    "color": "#ef9a9a"
   },
   "611000": {
     "confirmedCount": 2,
-    "cityName": "å•†æ´›å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ÉÌÂåÊĞ",
+    "color": "#ffcdd2"
   },
   "620100": {
-    "confirmedCount": 14,
-    "cityName": "å…°å·å¸‚",
-    "color": "#E04B49"
+    "confirmedCount": 20,
+    "cityName": "À¼ÖİÊĞ",
+    "color": "#ef9a9a"
   },
   "620200": {
     "confirmedCount": 0,
-    "cityName": "å˜‰å³ªå…³å¸‚",
+    "cityName": "¼ÎÓø¹ØÊĞ",
     "color": "#FFFFFF"
   },
   "620300": {
     "confirmedCount": 1,
-    "cityName": "é‡‘æ˜Œå¸‚",
-    "color": "#F08E7E"
+    "cityName": "½ğ²ıÊĞ",
+    "color": "#ffcdd2"
   },
   "620400": {
     "confirmedCount": 1,
-    "cityName": "ç™½é“¶å¸‚",
-    "color": "#F08E7E"
+    "cityName": "°×ÒøÊĞ",
+    "color": "#ffcdd2"
   },
   "620500": {
-    "confirmedCount": 1,
-    "cityName": "å¤©æ°´å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 3,
+    "cityName": "ÌìË®ÊĞ",
+    "color": "#ffcdd2"
   },
   "620600": {
     "confirmedCount": 0,
-    "cityName": "æ­¦å¨å¸‚",
+    "cityName": "ÎäÍşÊĞ",
     "color": "#FFFFFF"
   },
   "620700": {
     "confirmedCount": 2,
-    "cityName": "å¼ æ–å¸‚",
-    "color": "#F08E7E"
+    "cityName": "ÕÅÒ´ÊĞ",
+    "color": "#ffcdd2"
   },
   "620800": {
     "confirmedCount": 1,
-    "cityName": "å¹³å‡‰å¸‚",
-    "color": "#F08E7E"
+    "cityName": "Æ½Á¹ÊĞ",
+    "color": "#ffcdd2"
   },
   "620900": {
     "confirmedCount": 0,
-    "cityName": "é…’æ³‰å¸‚",
+    "cityName": "¾ÆÈªÊĞ",
     "color": "#FFFFFF"
   },
   "621000": {
     "confirmedCount": 0,
-    "cityName": "åº†é˜³å¸‚",
+    "cityName": "ÇìÑôÊĞ",
     "color": "#FFFFFF"
   },
   "621100": {
-    "confirmedCount": 1,
-    "cityName": "å®šè¥¿å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 2,
+    "cityName": "¶¨Î÷ÊĞ",
+    "color": "#ffcdd2"
   },
   "621200": {
-    "confirmedCount": 1,
-    "cityName": "é™‡å—å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 3,
+    "cityName": "Â¤ÄÏÊĞ",
+    "color": "#ffcdd2"
   },
   "622900": {
     "confirmedCount": 2,
-    "cityName": "ä¸´å¤å›æ—è‡ªæ²»å·",
-    "color": "#F08E7E"
+    "cityName": "ÁÙÏÄ»Ø×å×ÔÖÎÖİ",
+    "color": "#ffcdd2"
   },
   "623000": {
     "confirmedCount": 0,
-    "cityName": "ç”˜å—è—æ—è‡ªæ²»å·",
+    "cityName": "¸ÊÄÏ²Ø×å×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "630100": {
-    "confirmedCount": 6,
-    "cityName": "è¥¿å®å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 9,
+    "cityName": "Î÷ÄşÊĞ",
+    "color": "#ffcdd2"
   },
   "630200": {
     "confirmedCount": 0,
-    "cityName": "æµ·ä¸œå¸‚",
+    "cityName": "º£¶«ÊĞ",
     "color": "#FFFFFF"
   },
   "632200": {
     "confirmedCount": 0,
-    "cityName": "æµ·åŒ—è—æ—è‡ªæ²»å·",
+    "cityName": "º£±±²Ø×å×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "632300": {
     "confirmedCount": 0,
-    "cityName": "é»„å—è—æ—è‡ªæ²»å·",
+    "cityName": "»ÆÄÏ²Ø×å×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "632500": {
     "confirmedCount": 0,
-    "cityName": "æµ·å—è—æ—è‡ªæ²»å·",
+    "cityName": "º£ÄÏ²Ø×å×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "632600": {
     "confirmedCount": 0,
-    "cityName": "æœæ´›è—æ—è‡ªæ²»å·",
+    "cityName": "¹ûÂå²Ø×å×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "632700": {
     "confirmedCount": 0,
-    "cityName": "ç‰æ ‘è—æ—è‡ªæ²»å·",
+    "cityName": "ÓñÊ÷²Ø×å×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "632800": {
     "confirmedCount": 0,
-    "cityName": "æµ·è¥¿è’™å¤æ—è—æ—è‡ªæ²»å·",
+    "cityName": "º£Î÷ÃÉ¹Å×å²Ø×å×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "640100": {
-    "confirmedCount": 7,
-    "cityName": "é“¶å·å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 16,
+    "cityName": "Òø´¨ÊĞ",
+    "color": "#ef9a9a"
   },
   "640200": {
     "confirmedCount": 0,
-    "cityName": "çŸ³å˜´å±±å¸‚",
+    "cityName": "Ê¯×ìÉ½ÊĞ",
     "color": "#FFFFFF"
   },
   "640300": {
-    "confirmedCount": 3,
-    "cityName": "å´å¿ å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 6,
+    "cityName": "ÎâÖÒÊĞ",
+    "color": "#ffcdd2"
   },
   "640400": {
-    "confirmedCount": 1,
-    "cityName": "å›ºåŸå¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 2,
+    "cityName": "¹ÌÔ­ÊĞ",
+    "color": "#ffcdd2"
   },
   "640500": {
-    "confirmedCount": 1,
-    "cityName": "ä¸­å«å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 2,
+    "cityName": "ÖĞÎÀÊĞ",
+    "color": "#ffcdd2"
   },
   "650100": {
-    "confirmedCount": 6,
-    "cityName": "ä¹Œé²æœ¨é½å¸‚",
-    "color": "#F08E7E"
+    "confirmedCount": 8,
+    "cityName": "ÎÚÂ³Ä¾ÆëÊĞ",
+    "color": "#ffcdd2"
   },
   "650200": {
     "confirmedCount": 0,
-    "cityName": "å…‹æ‹‰ç›ä¾å¸‚",
+    "cityName": "¿ËÀ­ÂêÒÀÊĞ",
     "color": "#FFFFFF"
   },
   "650400": {
     "confirmedCount": 1,
-    "cityName": "åé²ç•ªå¸‚",
-    "color": "#F08E7E"
+    "cityName": "ÍÂÂ³·¬ÊĞ",
+    "color": "#ffcdd2"
   },
   "650500": {
     "confirmedCount": 0,
-    "cityName": "å“ˆå¯†å¸‚",
+    "cityName": "¹şÃÜÊĞ",
     "color": "#FFFFFF"
   },
   "652300": {
     "confirmedCount": 0,
-    "cityName": "æ˜Œå‰å›æ—è‡ªæ²»å·",
+    "cityName": "²ı¼ª»Ø×å×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "652700": {
     "confirmedCount": 0,
-    "cityName": "åšå°”å¡”æ‹‰è’™å¤è‡ªæ²»å·",
+    "cityName": "²©¶ûËşÀ­ÃÉ¹Å×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "652800": {
     "confirmedCount": 0,
-    "cityName": "å·´éŸ³éƒ­æ¥è’™å¤è‡ªæ²»å·",
+    "cityName": "°ÍÒô¹ùÀãÃÉ¹Å×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "652900": {
-    "confirmedCount": 0,
-    "cityName": "é˜¿å…‹è‹åœ°åŒº",
-    "color": "#FFFFFF"
+    "confirmedCount": 1,
+    "cityName": "°¢¿ËËÕµØÇø",
+    "color": "#ffcdd2"
   },
   "653000": {
     "confirmedCount": 0,
-    "cityName": "å…‹å­œå‹’è‹æŸ¯å°”å…‹å­œè‡ªæ²»å·",
+    "cityName": "¿Ë×ÎÀÕËÕ¿Â¶û¿Ë×Î×ÔÖÎÖİ",
     "color": "#FFFFFF"
   },
   "653100": {
     "confirmedCount": 0,
-    "cityName": "å–€ä»€åœ°åŒº",
+    "cityName": "¿¦Ê²µØÇø",
     "color": "#FFFFFF"
   },
   "653200": {
     "confirmedCount": 0,
-    "cityName": "å’Œç”°åœ°åŒº",
+    "cityName": "ºÍÌïµØÇø",
     "color": "#FFFFFF"
   },
   "654000": {
-    "confirmedCount": 4,
-    "cityName": "ä¼ŠçŠå“ˆè¨å…‹è‡ªæ²»å·",
-    "color": "#F08E7E"
+    "confirmedCount": 5,
+    "cityName": "ÒÁÀç¹şÈø¿Ë×ÔÖÎÖİ",
+    "color": "#ffcdd2"
   },
   "654200": {
     "confirmedCount": 1,
-    "cityName": "å¡”åŸåœ°åŒº",
-    "color": "#F08E7E"
+    "cityName": "Ëş³ÇµØÇø",
+    "color": "#ffcdd2"
   },
   "654300": {
     "confirmedCount": 0,
-    "cityName": "é˜¿å‹’æ³°åœ°åŒº",
+    "cityName": "°¢ÀÕÌ©µØÇø",
     "color": "#FFFFFF"
   },
   "659001": {
     "confirmedCount": 1,
-    "cityName": "çŸ³æ²³å­å¸‚",
-    "color": "#F08E7E"
+    "cityName": "Ê¯ºÓ×ÓÊĞ",
+    "color": "#ffcdd2"
   },
   "659002": {
     "confirmedCount": 0,
-    "cityName": "é˜¿æ‹‰å°”å¸‚",
+    "cityName": "°¢À­¶ûÊĞ",
     "color": "#FFFFFF"
   },
   "659003": {
     "confirmedCount": 0,
-    "cityName": "å›¾æœ¨èˆ’å…‹å¸‚",
+    "cityName": "Í¼Ä¾Êæ¿ËÊĞ",
     "color": "#FFFFFF"
   },
   "659004": {
     "confirmedCount": 0,
-    "cityName": "äº”å®¶æ¸ å¸‚",
+    "cityName": "Îå¼ÒÇşÊĞ",
     "color": "#FFFFFF"
   },
   "659005": {
     "confirmedCount": 0,
-    "cityName": "åŒ—å±¯å¸‚",
+    "cityName": "±±ÍÍÊĞ",
     "color": "#FFFFFF"
   },
   "659006": {
     "confirmedCount": 0,
-    "cityName": "é“é—¨å…³å¸‚",
+    "cityName": "ÌúÃÅ¹ØÊĞ",
     "color": "#FFFFFF"
   },
   "659007": {
     "confirmedCount": 0,
-    "cityName": "åŒæ²³å¸‚",
+    "cityName": "Ë«ºÓÊĞ",
     "color": "#FFFFFF"
   },
   "659008": {
     "confirmedCount": 0,
-    "cityName": "å¯å…‹è¾¾æ‹‰å¸‚",
+    "cityName": "¿É¿Ë´ïÀ­ÊĞ",
     "color": "#FFFFFF"
   },
   "659009": {
     "confirmedCount": 0,
-    "cityName": "æ˜†ç‰å¸‚",
+    "cityName": "À¥ÓñÊĞ",
     "color": "#FFFFFF"
   }
 }

@@ -123,14 +123,18 @@ def get_confirmed_count_tx():
 
 def count_to_color(confirm, suspect):
     # 颜色含义同丁香园
+    if confirm > 1000:
+        return '#b71c1c'
+    if confirm > 500:
+        return '#e53935'
     if confirm > 100:
-        return '#73181B'
+        return '#ef5350'
     if confirm >= 10:
-        return '#E04B49'
+        return '#ef9a9a'
+#    if confirm > 5:
+#        return '#ef9a9a'
     if confirm > 0:
-        return '#F08E7E'
-    if suspect > 0:
-        return '#F2D7A2'
+        return '#ffcdd2'
     return '#FFFFFF'
 
 
